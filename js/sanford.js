@@ -4,7 +4,7 @@ var sanford = {
     {
       "type": "Feature",
       "properties": {
-        "name": "Sanford Stadium"
+        "name": "Sanford Stadium",
         "event": "lab8"
       },
       "geometry": {
