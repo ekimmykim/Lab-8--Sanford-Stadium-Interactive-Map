@@ -1,15 +1,5 @@
-var sanford = {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Sanford Stadium",
-        "event": "lab8"
-      },
-      "geometry": {
-        "coordinates": [
-          [
+var sanford = { "type": "FeatureCollection", "features": [ { "type": "Feature", "properties": { "name": "Sanford Stadium", "event": "lab8" }, "geometry": { "type": "Polygon", "coordinates": [ 
+  [
             [
               -83.37386736932112,
               33.95047322180149
@@ -31,9 +21,7 @@ var sanford = {
               33.95047322180149
             ]
           ]
-        ],
-        "type": "Polygon"
       }
     }
   ]
-}
+};
